@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Service Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Service Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">d89b8828d9313110cedf7dffddb48f0d</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-25 23:32:13</sys_created_on>
+        <sys_id>f6558523c349ca507ada1ff1b4013164</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Request</sys_name>
+        <sys_package display_value="NextGen Property Management" source="x_1311417_nextge_0">147445efc309ca507ada1ff1b4013102</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NextGen Property Management">147445efc309ca507ada1ff1b4013102</sys_scope>
+        <sys_update_name>sys_wizard_answer_f6558523c349ca507ada1ff1b4013164</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-25 23:32:13</sys_updated_on>
+        <table/>
+        <target_url>x_1311417_nextge_0_service_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
